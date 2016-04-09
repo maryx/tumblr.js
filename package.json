@@ -13,7 +13,7 @@
   "name": "tumblr.js",
   "description": "Official JavaScript client for the Tumblr API",
   "homepage": "https://github.com/tumblr/tumblr.js",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "repository": {
     "url": "https://github.com/tumblr/tumblr.js"
   },
@@ -23,7 +23,7 @@
   },
   "main": "./index",
   "dependencies": {
-    "request": "2.12.0"
+    "request": "^2.12.0"
   },
   "devDependencies": {
     "mocha": "*",
